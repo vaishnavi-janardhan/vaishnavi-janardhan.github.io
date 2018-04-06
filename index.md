@@ -12,7 +12,7 @@ On the 7th of February 2018 I found an e-mail from the Udacity Scholarships Team
 
 ## The Road Ahead
 
-Equipped with the well curated courses of Udacity, Mentors who have the answers to all my queries and an enthusiastic batch of peers who keep me motivated day in and day out, the road seems planned but there is no Final Destination(though there are plenty of Landmarks on the way).
+Equipped with the well curated courses of Udacity, Mentors who have the answers to all my queries and an enthusiastic batch of peers who keep me motivated day in and day out, the road seems planned but there is no Final Destination (though there are plenty of Landmarks on the way).
 
 ### [Projects I made during the course(many more to be added soon !)](https://github.com/vaishnavi-janardhan)
 
