@@ -1,4 +1,4 @@
-## The first encounter
+## The First Encounter
 
 As a neophyte to programming, I didn't know where and what to start with. Android development seemed intimaidating to me. Neither did I know Java nor did I have any prior experience in programming. That's when I learned about [Udacity](https://in.udacity.com/) from a friend and I started my first ever online course. It was a beginners course on Java. I am so glad that I took the **Leap of Faith**!
 
