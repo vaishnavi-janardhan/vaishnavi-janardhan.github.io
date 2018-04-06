@@ -16,5 +16,4 @@ Equipped with the well curated courses of Udacity, Mentors who have the answers 
 
 # Thank You UDACITY !!!
 
-## Projects I made during the course(many more to be added soon!)
-[Vaishnavi Janardhan](https://github.com/vaishnavi-janardhan)
+### [Projects I made during the course(many more to be added soon!)](https://github.com/vaishnavi-janardhan)
