@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## The first encounter
 
-You can use the [editor on GitHub](https://github.com/vaishnavi-janardhan/vaishnavi-janardhan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+As a neophyte to programming, I didn't know where and what to start with. Android development seemed intimaidating to me. Neither did I know Java nor did I have any prior experience in programming. That's when I learned about [Udacity](https://in.udacity.com/) from a friend and I started my first ever online course. It was a beginners course on Java. I am so glad that I took the **Leap of Faith**!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The Turning Point
 
-### Markdown
+While I was going through the other courses on Udacity, I came across the **Google-Udacity Android Beginners Scholarship Programme**. With no second thought I applied for it hoping to get selected (though I was aware of the tough competition I would face!).
+On the 7th of February 2018 I find an e-mail from the Udacity Scholarships Team mentioning that I was selected for the scholarship. My happiness knew no bounds. The scholarship badge was and still remains an asset to flaunt.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![google-scholarship-india-badge](https://user-images.githubusercontent.com/35659656/38405756-129c9f18-398f-11e8-93b9-36ddc4bc2c4b.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## The Road Ahead
 
-- Bulleted
-- List
+Equipped with the well curated courses of Udacity, Mentors who have the answers to all my queries and an enthusiastic batch of peers who keep me motivated day in and day out, the road seems planned but there is no Final Destination(though there are plenty of Landmarks on the way).
 
-1. Numbered
-2. List
+# Thank You UDACITY !!!
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vaishnavi-janardhan/vaishnavi-janardhan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Projects I made during the course(many more to be added soon!)
+[Vaishnavi Janardhan](https://github.com/vaishnavi-janardhan)
